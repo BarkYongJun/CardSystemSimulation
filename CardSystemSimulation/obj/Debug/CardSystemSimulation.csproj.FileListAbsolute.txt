@@ -1,0 +1,10 @@
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\bin\Debug\CardSystemSimulation.exe.config
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\bin\Debug\CardSystemSimulation.exe
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\bin\Debug\CardSystemSimulation.pdb
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\obj\Debug\CardSystemSimulation.csprojResolveAssemblyReference.cache
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\obj\Debug\CardSystemSimulation.CardSystemSimulation.resources
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\obj\Debug\CardSystemSimulation.Properties.Resources.resources
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\obj\Debug\CardSystemSimulation.csproj.GenerateResource.Cache
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\obj\Debug\CardSystemSimulation.csproj.CoreCompileInputs.cache
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\obj\Debug\CardSystemSimulation.exe
+C:\Users\ParkYongjun\source\repos\CardSystemSimulation\CardSystemSimulation\obj\Debug\CardSystemSimulation.pdb
